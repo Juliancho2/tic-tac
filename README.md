@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+```
+https://elaborate-belekoy-f6909e.netlify.app/
